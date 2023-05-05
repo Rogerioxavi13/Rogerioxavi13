@@ -13,7 +13,7 @@ Meu nome é Rogério Xavier, sou Progragamdor Front End, criando projetos com as
 
 
 <p>
-  <a href= "https//:instagram.com/rogerio_x">
+  <a href= "https//:www.instagram.com/rogerio_x">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/rog%C3%A9rio-xavier-da-silva-901a44249/">
